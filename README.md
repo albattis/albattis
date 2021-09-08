@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @albattis
 - 👀 I’m interested in software develop jobs.
-- 🌱 I’m currently learning Javascript technologies and Mobil application in Visual Studio
+- 🌱 I’m learnt Javascript technologies and Mobile application.
+- Now I learn ASP.NET technologies.
 
 
 
