@@ -7,9 +7,9 @@ Currently focusing on:
 - 🌐 Learning ASP.NET for cross-platform backend development
 
 ### 🔨 Projects worth checking out:
-- [Gardiners-WebPage](https://github.com/albattis/Gardiners-WebPage)
-- [Js-Napilapok](https://github.com/albattis/Js-Napilapok)
-- [Parking-Reserved](https://github.com/albattis/Parking-Reserved)
+- 
+- 
+- 
 
 Looking for internship or junior developer opportunities to grow and contribute to real-world software.
 
