@@ -42,4 +42,4 @@
 
 ### 📫 Elérhetőség:
 * [cite_start]**LinkedIn:** [linkedin.com/in/albert-attila-181498208](https://linkedin.com/in/albert-attila-181498208) [cite: 6]
-* [cite_start]**Email:** alb12attis12@gmail.com [cite: 5]
+
