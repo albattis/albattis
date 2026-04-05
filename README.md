@@ -14,7 +14,7 @@ Szoftverfejlesztő vagyok, erős hardverdiagnosztikai és rendszerüzemeltetési
 
 ### 🔨 Projektek, amiket érdemes megnézned:
 
-#### 🚀 [AttilaDesk - Irodai Workflow Rendszer](https://github.com/albattis/AttilaDesk)
+#### 🚀 [AttilaDesk - Irodai Workflow Rendszer]([https://github.com/albattis/AttilaDesk-Picidabo-)]
 Moduláris adminisztrációs platform, amelyet a papíralapú folyamatok kiváltására terveztem.
 * **Főbb funkciók:** Feladatkezelő státuszkövetéssel, ügyféladminisztráció és szabadságtervező modul.
 * **Technológia:** Egyedi PHP MVC struktúra, MySQL, jQuery, Composer.
